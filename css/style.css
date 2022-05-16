@@ -144,7 +144,7 @@ body {
 .foot {
   display: flex;
   align-items: center;
-  -webkit-justify-content: space-between;
+  justify-content: space-between;
 }
 .foot p {
   margin: 5px 35px;
